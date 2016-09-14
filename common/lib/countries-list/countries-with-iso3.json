@@ -1,0 +1,2513 @@
+{
+  "continents": {
+    "AF": "Africa",
+    "AN": "Antarctica",
+    "AS": "Asia",
+    "EU": "Europe",
+    "NA": "North America",
+    "OC": "Oceania",
+    "SA": "South America"
+  },
+  "countries": {
+    "BD": {
+      "name": "Bangladesh",
+      "phone": "880",
+      "languages": "bn",
+      "currency": "BDT",
+      "iso3": "BGD",
+      "capital": "Dhaka",
+      "continent": "AS",
+      "native": "Bangladesh"
+    },
+    "BE": {
+      "name": "Belgium",
+      "phone": "32",
+      "languages": "nl,fr,de",
+      "currency": "EUR",
+      "iso3": "BEL",
+      "capital": "Brussels",
+      "continent": "EU",
+      "native": "Belgi\u00eb"
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "phone": "226",
+      "languages": "fr,ff",
+      "currency": "XOF",
+      "iso3": "BFA",
+      "capital": "Ouagadougou",
+      "continent": "AF",
+      "native": "Burkina Faso"
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "phone": "359",
+      "languages": "bg",
+      "currency": "BGN",
+      "iso3": "BGR",
+      "capital": "Sofia",
+      "continent": "EU",
+      "native": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina",
+      "phone": "387",
+      "languages": "bs,hr,sr",
+      "currency": "BAM",
+      "iso3": "BIH",
+      "capital": "Sarajevo",
+      "continent": "EU",
+      "native": "Bosna i Hercegovina"
+    },
+    "BB": {
+      "name": "Barbados",
+      "phone": "1246",
+      "languages": "en",
+      "currency": "BBD",
+      "iso3": "BRB",
+      "capital": "Bridgetown",
+      "continent": "NA",
+      "native": "Barbados"
+    },
+    "WF": {
+      "name": "Wallis and Futuna",
+      "phone": "681",
+      "languages": "fr",
+      "currency": "XPF",
+      "iso3": "WLF",
+      "capital": "Mata-Utu",
+      "continent": "OC",
+      "native": "Wallis et Futuna"
+    },
+    "BL": {
+      "name": "Saint Barth\u00e9lemy",
+      "phone": "590",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "BLM",
+      "capital": "Gustavia",
+      "continent": "NA",
+      "native": "Saint-Barth\u00e9lemy"
+    },
+    "BM": {
+      "name": "Bermuda",
+      "phone": "1441",
+      "languages": "en",
+      "currency": "BMD",
+      "iso3": "BMU",
+      "capital": "Hamilton",
+      "continent": "NA",
+      "native": "Bermuda"
+    },
+    "BN": {
+      "name": "Brunei",
+      "phone": "673",
+      "languages": "ms",
+      "currency": "BND",
+      "iso3": "BRN",
+      "capital": "Bandar Seri Begawan",
+      "continent": "AS",
+      "native": "Negara Brunei Darussalam"
+    },
+    "BO": {
+      "name": "Bolivia",
+      "phone": "591",
+      "languages": "es,ay,qu",
+      "currency": "BOB,BOV",
+      "iso3": "BOL",
+      "capital": "Sucre",
+      "continent": "SA",
+      "native": "Bolivia"
+    },
+    "BH": {
+      "name": "Bahrain",
+      "phone": "973",
+      "languages": "ar",
+      "currency": "BHD",
+      "iso3": "BHR",
+      "capital": "Manama",
+      "continent": "AS",
+      "native": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+    },
+    "BI": {
+      "name": "Burundi",
+      "phone": "257",
+      "languages": "fr,rn",
+      "currency": "BIF",
+      "iso3": "BDI",
+      "capital": "Bujumbura",
+      "continent": "AF",
+      "native": "Burundi"
+    },
+    "BJ": {
+      "name": "Benin",
+      "phone": "229",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "BEN",
+      "capital": "Porto-Novo",
+      "continent": "AF",
+      "native": "B\u00e9nin"
+    },
+    "BT": {
+      "name": "Bhutan",
+      "phone": "975",
+      "languages": "dz",
+      "currency": "BTN,INR",
+      "iso3": "BTN",
+      "capital": "Thimphu",
+      "continent": "AS",
+      "native": "\u02bcbrug-yul"
+    },
+    "JM": {
+      "name": "Jamaica",
+      "phone": "1876",
+      "languages": "en",
+      "currency": "JMD",
+      "iso3": "JAM",
+      "capital": "Kingston",
+      "continent": "NA",
+      "native": "Jamaica"
+    },
+    "BV": {
+      "name": "Bouvet Island",
+      "phone": "",
+      "languages": "",
+      "currency": "NOK",
+      "iso3": "BVT",
+      "capital": "",
+      "continent": "AN",
+      "native": "Bouvet\u00f8ya"
+    },
+    "BW": {
+      "name": "Botswana",
+      "phone": "267",
+      "languages": "en,tn",
+      "currency": "BWP",
+      "iso3": "BWA",
+      "capital": "Gaborone",
+      "continent": "AF",
+      "native": "Botswana"
+    },
+    "WS": {
+      "name": "Samoa",
+      "phone": "685",
+      "languages": "sm,en",
+      "currency": "WST",
+      "iso3": "WSM",
+      "capital": "Apia",
+      "continent": "OC",
+      "native": "Samoa"
+    },
+    "BQ": {
+      "name": "Bonaire",
+      "phone": "5997",
+      "languages": "nl",
+      "currency": "USD",
+      "iso3": "BES",
+      "capital": "Kralendijk",
+      "continent": "NA",
+      "native": "Bonaire"
+    },
+    "BR": {
+      "name": "Brazil",
+      "phone": "55",
+      "languages": "pt",
+      "currency": "BRL",
+      "iso3": "BRA",
+      "capital": "Bras\u00edlia",
+      "continent": "SA",
+      "native": "Brasil"
+    },
+    "BS": {
+      "name": "Bahamas",
+      "phone": "1242",
+      "languages": "en",
+      "currency": "BSD",
+      "iso3": "BHS",
+      "capital": "Nassau",
+      "continent": "NA",
+      "native": "Bahamas"
+    },
+    "JE": {
+      "name": "Jersey",
+      "phone": "44",
+      "languages": "en,fr",
+      "currency": "GBP",
+      "iso3": "JEY",
+      "capital": "Saint Helier",
+      "continent": "EU",
+      "native": "Jersey"
+    },
+    "BY": {
+      "name": "Belarus",
+      "phone": "375",
+      "languages": "be,ru",
+      "currency": "BYR",
+      "iso3": "BLR",
+      "capital": "Minsk",
+      "continent": "EU",
+      "native": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c"
+    },
+    "BZ": {
+      "name": "Belize",
+      "phone": "501",
+      "languages": "en,es",
+      "currency": "BZD",
+      "iso3": "BLZ",
+      "capital": "Belmopan",
+      "continent": "NA",
+      "native": "Belize"
+    },
+    "RU": {
+      "name": "Russia",
+      "phone": "7",
+      "languages": "ru",
+      "currency": "RUB",
+      "iso3": "RUS",
+      "capital": "Moscow",
+      "continent": "EU",
+      "native": "\u0420\u043e\u0441\u0441\u0438\u044f"
+    },
+    "RW": {
+      "name": "Rwanda",
+      "phone": "250",
+      "languages": "rw,en,fr",
+      "currency": "RWF",
+      "iso3": "RWA",
+      "capital": "Kigali",
+      "continent": "AF",
+      "native": "Rwanda"
+    },
+    "RS": {
+      "name": "Serbia",
+      "phone": "381",
+      "languages": "sr",
+      "currency": "RSD",
+      "iso3": "SRB",
+      "capital": "Belgrade",
+      "continent": "EU",
+      "native": "\u0421\u0440\u0431\u0438\u0458\u0430"
+    },
+    "TL": {
+      "name": "East Timor",
+      "phone": "670",
+      "languages": "pt",
+      "currency": "USD",
+      "iso3": "TLS",
+      "capital": "Dili",
+      "continent": "OC",
+      "native": "Timor-Leste"
+    },
+    "RE": {
+      "name": "R\u00e9union",
+      "phone": "262",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "REU",
+      "capital": "Saint-Denis",
+      "continent": "AF",
+      "native": "La R\u00e9union"
+    },
+    "TM": {
+      "name": "Turkmenistan",
+      "phone": "993",
+      "languages": "tk,ru",
+      "currency": "TMT",
+      "iso3": "TKM",
+      "capital": "Ashgabat",
+      "continent": "AS",
+      "native": "T\u00fcrkmenistan"
+    },
+    "TJ": {
+      "name": "Tajikistan",
+      "phone": "992",
+      "languages": "tg,ru",
+      "currency": "TJS",
+      "iso3": "TJK",
+      "capital": "Dushanbe",
+      "continent": "AS",
+      "native": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d"
+    },
+    "RO": {
+      "name": "Romania",
+      "phone": "40",
+      "languages": "ro",
+      "currency": "RON",
+      "iso3": "ROU",
+      "capital": "Bucharest",
+      "continent": "EU",
+      "native": "Rom\u00e2nia"
+    },
+    "TK": {
+      "name": "Tokelau",
+      "phone": "690",
+      "languages": "en",
+      "currency": "NZD",
+      "iso3": "TKL",
+      "capital": "Fakaofo",
+      "continent": "OC",
+      "native": "Tokelau"
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "phone": "245",
+      "languages": "pt",
+      "currency": "XOF",
+      "iso3": "GNB",
+      "capital": "Bissau",
+      "continent": "AF",
+      "native": "Guin\u00e9-Bissau"
+    },
+    "GU": {
+      "name": "Guam",
+      "phone": "1671",
+      "languages": "en,ch,es",
+      "currency": "USD",
+      "iso3": "GUM",
+      "capital": "Hag\u00e5t\u00f1a",
+      "continent": "OC",
+      "native": "Guam"
+    },
+    "GT": {
+      "name": "Guatemala",
+      "phone": "502",
+      "languages": "es",
+      "currency": "GTQ",
+      "iso3": "GTM",
+      "capital": "Guatemala City",
+      "continent": "NA",
+      "native": "Guatemala"
+    },
+    "GS": {
+      "name": "South Georgia and the South Sandwich Islands",
+      "phone": "500",
+      "languages": "en",
+      "currency": "GBP",
+      "iso3": "SGS",
+      "capital": "King Edward Point",
+      "continent": "AN",
+      "native": "South Georgia"
+    },
+    "GR": {
+      "name": "Greece",
+      "phone": "30",
+      "languages": "el",
+      "currency": "EUR",
+      "iso3": "GRC",
+      "capital": "Athens",
+      "continent": "EU",
+      "native": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "phone": "240",
+      "languages": "es,fr",
+      "currency": "XAF",
+      "iso3": "GNQ",
+      "capital": "Malabo",
+      "continent": "AF",
+      "native": "Guinea Ecuatorial"
+    },
+    "GP": {
+      "name": "Guadeloupe",
+      "phone": "590",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "GLP",
+      "capital": "Basse-Terre",
+      "continent": "NA",
+      "native": "Guadeloupe"
+    },
+    "JP": {
+      "name": "Japan",
+      "phone": "81",
+      "languages": "ja",
+      "currency": "JPY",
+      "iso3": "JPN",
+      "capital": "Tokyo",
+      "continent": "AS",
+      "native": "\u65e5\u672c"
+    },
+    "GY": {
+      "name": "Guyana",
+      "phone": "592",
+      "languages": "en",
+      "currency": "GYD",
+      "iso3": "GUY",
+      "capital": "Georgetown",
+      "continent": "SA",
+      "native": "Guyana"
+    },
+    "GG": {
+      "name": "Guernsey",
+      "phone": "44",
+      "languages": "en,fr",
+      "currency": "GBP",
+      "iso3": "GGY",
+      "capital": "St. Peter Port",
+      "continent": "EU",
+      "native": "Guernsey"
+    },
+    "GF": {
+      "name": "French Guiana",
+      "phone": "594",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "GUF",
+      "capital": "Cayenne",
+      "continent": "SA",
+      "native": "Guyane fran\u00e7aise"
+    },
+    "GE": {
+      "name": "Georgia",
+      "phone": "995",
+      "languages": "ka",
+      "currency": "GEL",
+      "iso3": "GEO",
+      "capital": "Tbilisi",
+      "continent": "AS",
+      "native": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+    },
+    "GD": {
+      "name": "Grenada",
+      "phone": "1473",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "GRD",
+      "capital": "St. George's",
+      "continent": "NA",
+      "native": "Grenada"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "phone": "44",
+      "languages": "en",
+      "currency": "GBP",
+      "iso3": "GBR",
+      "capital": "London",
+      "continent": "EU",
+      "native": "United Kingdom"
+    },
+    "GA": {
+      "name": "Gabon",
+      "phone": "241",
+      "languages": "fr",
+      "currency": "XAF",
+      "iso3": "GAB",
+      "capital": "Libreville",
+      "continent": "AF",
+      "native": "Gabon"
+    },
+    "SV": {
+      "name": "El Salvador",
+      "phone": "503",
+      "languages": "es",
+      "currency": "SVC,USD",
+      "iso3": "SLV",
+      "capital": "San Salvador",
+      "continent": "NA",
+      "native": "El Salvador"
+    },
+    "GN": {
+      "name": "Guinea",
+      "phone": "224",
+      "languages": "fr,ff",
+      "currency": "GNF",
+      "iso3": "GIN",
+      "capital": "Conakry",
+      "continent": "AF",
+      "native": "Guin\u00e9e"
+    },
+    "GM": {
+      "name": "Gambia",
+      "phone": "220",
+      "languages": "en",
+      "currency": "GMD",
+      "iso3": "GMB",
+      "capital": "Banjul",
+      "continent": "AF",
+      "native": "Gambia"
+    },
+    "GL": {
+      "name": "Greenland",
+      "phone": "299",
+      "languages": "kl",
+      "currency": "DKK",
+      "iso3": "GRL",
+      "capital": "Nuuk",
+      "continent": "NA",
+      "native": "Kalaallit Nunaat"
+    },
+    "GI": {
+      "name": "Gibraltar",
+      "phone": "350",
+      "languages": "en",
+      "currency": "GIP",
+      "iso3": "GIB",
+      "capital": "Gibraltar",
+      "continent": "EU",
+      "native": "Gibraltar"
+    },
+    "GH": {
+      "name": "Ghana",
+      "phone": "233",
+      "languages": "en",
+      "currency": "GHS",
+      "iso3": "GHA",
+      "capital": "Accra",
+      "continent": "AF",
+      "native": "Ghana"
+    },
+    "OM": {
+      "name": "Oman",
+      "phone": "968",
+      "languages": "ar",
+      "currency": "OMR",
+      "iso3": "OMN",
+      "capital": "Muscat",
+      "continent": "AS",
+      "native": "\u0639\u0645\u0627\u0646"
+    },
+    "TN": {
+      "name": "Tunisia",
+      "phone": "216",
+      "languages": "ar",
+      "currency": "TND",
+      "iso3": "TUN",
+      "capital": "Tunis",
+      "continent": "AF",
+      "native": "\u062a\u0648\u0646\u0633"
+    },
+    "JO": {
+      "name": "Jordan",
+      "phone": "962",
+      "languages": "ar",
+      "currency": "JOD",
+      "iso3": "JOR",
+      "capital": "Amman",
+      "continent": "AS",
+      "native": "\u0627\u0644\u0623\u0631\u062f\u0646"
+    },
+    "HR": {
+      "name": "Croatia",
+      "phone": "385",
+      "languages": "hr",
+      "currency": "HRK",
+      "iso3": "HRV",
+      "capital": "Zagreb",
+      "continent": "EU",
+      "native": "Hrvatska"
+    },
+    "HT": {
+      "name": "Haiti",
+      "phone": "509",
+      "languages": "fr,ht",
+      "currency": "HTG,USD",
+      "iso3": "HTI",
+      "capital": "Port-au-Prince",
+      "continent": "NA",
+      "native": "Ha\u00efti"
+    },
+    "HU": {
+      "name": "Hungary",
+      "phone": "36",
+      "languages": "hu",
+      "currency": "HUF",
+      "iso3": "HUN",
+      "capital": "Budapest",
+      "continent": "EU",
+      "native": "Magyarorsz\u00e1g"
+    },
+    "HK": {
+      "name": "Hong Kong",
+      "phone": "852",
+      "languages": "zh,en",
+      "currency": "HKD",
+      "iso3": "HKG",
+      "capital": "City of Victoria",
+      "continent": "AS",
+      "native": "\u9999\u6e2f"
+    },
+    "HN": {
+      "name": "Honduras",
+      "phone": "504",
+      "languages": "es",
+      "currency": "HNL",
+      "iso3": "HND",
+      "capital": "Tegucigalpa",
+      "continent": "NA",
+      "native": "Honduras"
+    },
+    "HM": {
+      "name": "Heard Island and McDonald Islands",
+      "phone": "",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "HMD",
+      "capital": "",
+      "continent": "AN",
+      "native": "Heard Island and McDonald Islands"
+    },
+    "VE": {
+      "name": "Venezuela",
+      "phone": "58",
+      "languages": "es",
+      "currency": "VEF",
+      "iso3": "VEN",
+      "capital": "Caracas",
+      "continent": "SA",
+      "native": "Venezuela"
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "phone": "1787,1939",
+      "languages": "es,en",
+      "currency": "USD",
+      "iso3": "PRI",
+      "capital": "San Juan",
+      "continent": "NA",
+      "native": "Puerto Rico"
+    },
+    "PS": {
+      "name": "Palestine",
+      "phone": "970",
+      "languages": "ar",
+      "currency": "ILS",
+      "iso3": "PSE",
+      "capital": "Ramallah",
+      "continent": "AS",
+      "native": "\u0641\u0644\u0633\u0637\u064a\u0646"
+    },
+    "PW": {
+      "name": "Palau",
+      "phone": "680",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "PLW",
+      "capital": "Ngerulmud",
+      "continent": "OC",
+      "native": "Palau"
+    },
+    "PT": {
+      "name": "Portugal",
+      "phone": "351",
+      "languages": "pt",
+      "currency": "EUR",
+      "iso3": "PRT",
+      "capital": "Lisbon",
+      "continent": "EU",
+      "native": "Portugal"
+    },
+    "SJ": {
+      "name": "Svalbard and Jan Mayen",
+      "phone": "4779",
+      "languages": "no",
+      "currency": "NOK",
+      "iso3": "SJM",
+      "capital": "Longyearbyen",
+      "continent": "EU",
+      "native": "Svalbard og Jan Mayen"
+    },
+    "PY": {
+      "name": "Paraguay",
+      "phone": "595",
+      "languages": "es,gn",
+      "currency": "PYG",
+      "iso3": "PRY",
+      "capital": "Asunci\u00f3n",
+      "continent": "SA",
+      "native": "Paraguay"
+    },
+    "IQ": {
+      "name": "Iraq",
+      "phone": "964",
+      "languages": "ar,ku",
+      "currency": "IQD",
+      "iso3": "IRQ",
+      "capital": "Baghdad",
+      "continent": "AS",
+      "native": "\u0627\u0644\u0639\u0631\u0627\u0642"
+    },
+    "PA": {
+      "name": "Panama",
+      "phone": "507",
+      "languages": "es",
+      "currency": "PAB,USD",
+      "iso3": "PAN",
+      "capital": "Panama City",
+      "continent": "NA",
+      "native": "Panam\u00e1"
+    },
+    "PF": {
+      "name": "French Polynesia",
+      "phone": "689",
+      "languages": "fr",
+      "currency": "XPF",
+      "iso3": "PYF",
+      "capital": "Papeet\u0113",
+      "continent": "OC",
+      "native": "Polyn\u00e9sie fran\u00e7aise"
+    },
+    "PG": {
+      "name": "Papua New Guinea",
+      "phone": "675",
+      "languages": "en",
+      "currency": "PGK",
+      "iso3": "PNG",
+      "capital": "Port Moresby",
+      "continent": "OC",
+      "native": "Papua Niugini"
+    },
+    "PE": {
+      "name": "Peru",
+      "phone": "51",
+      "languages": "es",
+      "currency": "PEN",
+      "iso3": "PER",
+      "capital": "Lima",
+      "continent": "SA",
+      "native": "Per\u00fa"
+    },
+    "PK": {
+      "name": "Pakistan",
+      "phone": "92",
+      "languages": "en,ur",
+      "currency": "PKR",
+      "iso3": "PAK",
+      "capital": "Islamabad",
+      "continent": "AS",
+      "native": "Pakistan"
+    },
+    "PH": {
+      "name": "Philippines",
+      "phone": "63",
+      "languages": "en",
+      "currency": "PHP",
+      "iso3": "PHL",
+      "capital": "Manila",
+      "continent": "AS",
+      "native": "Pilipinas"
+    },
+    "PN": {
+      "name": "Pitcairn Islands",
+      "phone": "64",
+      "languages": "en",
+      "currency": "NZD",
+      "iso3": "PCN",
+      "capital": "Adamstown",
+      "continent": "OC",
+      "native": "Pitcairn Islands"
+    },
+    "PL": {
+      "name": "Poland",
+      "phone": "48",
+      "languages": "pl",
+      "currency": "PLN",
+      "iso3": "POL",
+      "capital": "Warsaw",
+      "continent": "EU",
+      "native": "Polska"
+    },
+    "PM": {
+      "name": "Saint Pierre and Miquelon",
+      "phone": "508",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "SPM",
+      "capital": "Saint-Pierre",
+      "continent": "NA",
+      "native": "Saint-Pierre-et-Miquelon"
+    },
+    "ZM": {
+      "name": "Zambia",
+      "phone": "260",
+      "languages": "en",
+      "currency": "ZMK",
+      "iso3": "ZMB",
+      "capital": "Lusaka",
+      "continent": "AF",
+      "native": "Zambia"
+    },
+    "EH": {
+      "name": "Western Sahara",
+      "phone": "212",
+      "languages": "es",
+      "currency": "MAD,DZD,MRO",
+      "iso3": "ESH",
+      "capital": "El Aai\u00fan",
+      "continent": "AF",
+      "native": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    },
+    "EE": {
+      "name": "Estonia",
+      "phone": "372",
+      "languages": "et",
+      "currency": "EUR",
+      "iso3": "EST",
+      "capital": "Tallinn",
+      "continent": "EU",
+      "native": "Eesti"
+    },
+    "EG": {
+      "name": "Egypt",
+      "phone": "20",
+      "languages": "ar",
+      "currency": "EGP",
+      "iso3": "EGY",
+      "capital": "Cairo",
+      "continent": "AF",
+      "native": "\u0645\u0635\u0631\u200e"
+    },
+    "ZA": {
+      "name": "South Africa",
+      "phone": "27",
+      "languages": "af,en,nr,st,ss,tn,ts,ve,xh,zu",
+      "currency": "ZAR",
+      "iso3": "ZAF",
+      "capital": "Pretoria",
+      "continent": "AF",
+      "native": "South Africa"
+    },
+    "EC": {
+      "name": "Ecuador",
+      "phone": "593",
+      "languages": "es",
+      "currency": "USD",
+      "iso3": "ECU",
+      "capital": "Quito",
+      "continent": "SA",
+      "native": "Ecuador"
+    },
+    "IT": {
+      "name": "Italy",
+      "phone": "39",
+      "languages": "it",
+      "currency": "EUR",
+      "iso3": "ITA",
+      "capital": "Rome",
+      "continent": "EU",
+      "native": "Italia"
+    },
+    "VN": {
+      "name": "Vietnam",
+      "phone": "84",
+      "languages": "vi",
+      "currency": "VND",
+      "iso3": "VNM",
+      "capital": "Hanoi",
+      "continent": "AS",
+      "native": "Vi\u1ec7t Nam"
+    },
+    "SB": {
+      "name": "Solomon Islands",
+      "phone": "677",
+      "languages": "en",
+      "currency": "SDB",
+      "iso3": "SLB",
+      "capital": "Honiara",
+      "continent": "OC",
+      "native": "Solomon Islands"
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "phone": "251",
+      "languages": "am",
+      "currency": "ETB",
+      "iso3": "ETH",
+      "capital": "Addis Ababa",
+      "continent": "AF",
+      "native": "\u12a2\u1275\u12ee\u1335\u12eb"
+    },
+    "SO": {
+      "name": "Somalia",
+      "phone": "252",
+      "languages": "so,ar",
+      "currency": "SOS",
+      "iso3": "SOM",
+      "capital": "Mogadishu",
+      "continent": "AF",
+      "native": "Soomaaliya"
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "phone": "263",
+      "languages": "en,sn,nd",
+      "currency": "ZWL",
+      "iso3": "ZWE",
+      "capital": "Harare",
+      "continent": "AF",
+      "native": "Zimbabwe"
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "phone": "966",
+      "languages": "ar",
+      "currency": "SAR",
+      "iso3": "SAU",
+      "capital": "Riyadh",
+      "continent": "AS",
+      "native": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+    },
+    "ES": {
+      "name": "Spain",
+      "phone": "34",
+      "languages": "es,eu,ca,gl,oc",
+      "currency": "EUR",
+      "iso3": "ESP",
+      "capital": "Madrid",
+      "continent": "EU",
+      "native": "Espa\u00f1a"
+    },
+    "ER": {
+      "name": "Eritrea",
+      "phone": "291",
+      "languages": "ti,ar,en",
+      "currency": "ERN",
+      "iso3": "ERI",
+      "capital": "Asmara",
+      "continent": "AF",
+      "native": "\u12a4\u122d\u1275\u122b"
+    },
+    "ME": {
+      "name": "Montenegro",
+      "phone": "382",
+      "languages": "sr,bs,sq,hr",
+      "currency": "EUR",
+      "iso3": "MNE",
+      "capital": "Podgorica",
+      "continent": "EU",
+      "native": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
+    },
+    "MD": {
+      "name": "Moldova",
+      "phone": "373",
+      "languages": "ro",
+      "currency": "MDL",
+      "iso3": "MDA",
+      "capital": "Chi\u0219in\u0103u",
+      "continent": "EU",
+      "native": "Moldova"
+    },
+    "MG": {
+      "name": "Madagascar",
+      "phone": "261",
+      "languages": "fr,mg",
+      "currency": "MGA",
+      "iso3": "MDG",
+      "capital": "Antananarivo",
+      "continent": "AF",
+      "native": "Madagasikara"
+    },
+    "MF": {
+      "name": "Saint Martin",
+      "phone": "590",
+      "languages": "en,fr,nl",
+      "currency": "EUR",
+      "iso3": "MAF",
+      "capital": "Marigot",
+      "continent": "NA",
+      "native": "Saint-Martin"
+    },
+    "MA": {
+      "name": "Morocco",
+      "phone": "212",
+      "languages": "ar",
+      "currency": "MAD",
+      "iso3": "MAR",
+      "capital": "Rabat",
+      "continent": "AF",
+      "native": "\u0627\u0644\u0645\u063a\u0631\u0628"
+    },
+    "MC": {
+      "name": "Monaco",
+      "phone": "377",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "MCO",
+      "capital": "Monaco",
+      "continent": "EU",
+      "native": "Monaco"
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "phone": "998",
+      "languages": "uz,ru",
+      "currency": "UZS",
+      "iso3": "UZB",
+      "capital": "Tashkent",
+      "continent": "AS",
+      "native": "O\u2018zbekiston"
+    },
+    "MM": {
+      "name": "Myanmar [Burma]",
+      "phone": "95",
+      "languages": "my",
+      "currency": "MMK",
+      "iso3": "MMR",
+      "capital": "Naypyidaw",
+      "continent": "AS",
+      "native": "Myanma"
+    },
+    "ML": {
+      "name": "Mali",
+      "phone": "223",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "MLI",
+      "capital": "Bamako",
+      "continent": "AF",
+      "native": "Mali"
+    },
+    "MO": {
+      "name": "Macao",
+      "phone": "853",
+      "languages": "zh,pt",
+      "currency": "MOP",
+      "iso3": "MAC",
+      "capital": "",
+      "continent": "AS",
+      "native": "\u6fb3\u9580"
+    },
+    "MN": {
+      "name": "Mongolia",
+      "phone": "976",
+      "languages": "mn",
+      "currency": "MNT",
+      "iso3": "MNG",
+      "capital": "Ulan Bator",
+      "continent": "AS",
+      "native": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
+    },
+    "MH": {
+      "name": "Marshall Islands",
+      "phone": "692",
+      "languages": "en,mh",
+      "currency": "USD",
+      "iso3": "MHL",
+      "capital": "Majuro",
+      "continent": "OC",
+      "native": "M\u0327aje\u013c"
+    },
+    "MK": {
+      "name": "Macedonia",
+      "phone": "389",
+      "languages": "mk",
+      "currency": "MKD",
+      "iso3": "MKD",
+      "capital": "Skopje",
+      "continent": "EU",
+      "native": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    },
+    "MU": {
+      "name": "Mauritius",
+      "phone": "230",
+      "languages": "en",
+      "currency": "MUR",
+      "iso3": "MUS",
+      "capital": "Port Louis",
+      "continent": "AF",
+      "native": "Maurice"
+    },
+    "MT": {
+      "name": "Malta",
+      "phone": "356",
+      "languages": "mt,en",
+      "currency": "EUR",
+      "iso3": "MLT",
+      "capital": "Valletta",
+      "continent": "EU",
+      "native": "Malta"
+    },
+    "MW": {
+      "name": "Malawi",
+      "phone": "265",
+      "languages": "en,ny",
+      "currency": "MWK",
+      "iso3": "MWI",
+      "capital": "Lilongwe",
+      "continent": "AF",
+      "native": "Malawi"
+    },
+    "MV": {
+      "name": "Maldives",
+      "phone": "960",
+      "languages": "dv",
+      "currency": "MVR",
+      "iso3": "MDV",
+      "capital": "Mal\u00e9",
+      "continent": "AS",
+      "native": "Maldives"
+    },
+    "MQ": {
+      "name": "Martinique",
+      "phone": "596",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "MTQ",
+      "capital": "Fort-de-France",
+      "continent": "NA",
+      "native": "Martinique"
+    },
+    "MP": {
+      "name": "Northern Mariana Islands",
+      "phone": "1670",
+      "languages": "en,ch",
+      "currency": "USD",
+      "iso3": "MNP",
+      "capital": "Saipan",
+      "continent": "OC",
+      "native": "Northern Mariana Islands"
+    },
+    "MS": {
+      "name": "Montserrat",
+      "phone": "1664",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "MSR",
+      "capital": "Plymouth",
+      "continent": "NA",
+      "native": "Montserrat"
+    },
+    "MR": {
+      "name": "Mauritania",
+      "phone": "222",
+      "languages": "ar",
+      "currency": "MRO",
+      "iso3": "MRT",
+      "capital": "Nouakchott",
+      "continent": "AF",
+      "native": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
+    },
+    "IM": {
+      "name": "Isle of Man",
+      "phone": "44",
+      "languages": "en,gv",
+      "currency": "GBP",
+      "iso3": "IMN",
+      "capital": "Douglas",
+      "continent": "EU",
+      "native": "Isle of Man"
+    },
+    "UG": {
+      "name": "Uganda",
+      "phone": "256",
+      "languages": "en,sw",
+      "currency": "UGX",
+      "iso3": "UGA",
+      "capital": "Kampala",
+      "continent": "AF",
+      "native": "Uganda"
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "phone": "255",
+      "languages": "sw,en",
+      "currency": "TZS",
+      "iso3": "TZA",
+      "capital": "Dodoma",
+      "continent": "AF",
+      "native": "Tanzania"
+    },
+    "MY": {
+      "name": "Malaysia",
+      "phone": "60",
+      "languages": "",
+      "currency": "MYR",
+      "iso3": "MYS",
+      "capital": "Kuala Lumpur",
+      "continent": "AS",
+      "native": "Malaysia"
+    },
+    "MX": {
+      "name": "Mexico",
+      "phone": "52",
+      "languages": "es",
+      "currency": "MXN",
+      "iso3": "MEX",
+      "capital": "Mexico City",
+      "continent": "NA",
+      "native": "M\u00e9xico"
+    },
+    "IL": {
+      "name": "Israel",
+      "phone": "972",
+      "languages": "he,ar",
+      "currency": "ILS",
+      "iso3": "ISR",
+      "capital": "Jerusalem",
+      "continent": "AS",
+      "native": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc"
+    },
+    "FR": {
+      "name": "France",
+      "phone": "33",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "FRA",
+      "capital": "Paris",
+      "continent": "EU",
+      "native": "France"
+    },
+    "IO": {
+      "name": "British Indian Ocean Territory",
+      "phone": "246",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "IOT",
+      "capital": "Diego Garcia",
+      "continent": "AS",
+      "native": "British Indian Ocean Territory"
+    },
+    "SH": {
+      "name": "Saint Helena",
+      "phone": "290",
+      "languages": "en",
+      "currency": "SHP",
+      "iso3": "SHN",
+      "capital": "Jamestown",
+      "continent": "AF",
+      "native": "Saint Helena"
+    },
+    "FI": {
+      "name": "Finland",
+      "phone": "358",
+      "languages": "fi,sv",
+      "currency": "EUR",
+      "iso3": "FIN",
+      "capital": "Helsinki",
+      "continent": "EU",
+      "native": "Suomi"
+    },
+    "FJ": {
+      "name": "Fiji",
+      "phone": "679",
+      "languages": "en,fj,hi,ur",
+      "currency": "FJD",
+      "iso3": "FJI",
+      "capital": "Suva",
+      "continent": "OC",
+      "native": "Fiji"
+    },
+    "FK": {
+      "name": "Falkland Islands",
+      "phone": "500",
+      "languages": "en",
+      "currency": "FKP",
+      "iso3": "FLK",
+      "capital": "Stanley",
+      "continent": "SA",
+      "native": "Falkland Islands"
+    },
+    "FM": {
+      "name": "Micronesia",
+      "phone": "691",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "FSM",
+      "capital": "Palikir",
+      "continent": "OC",
+      "native": "Micronesia"
+    },
+    "FO": {
+      "name": "Faroe Islands",
+      "phone": "298",
+      "languages": "fo",
+      "currency": "DKK",
+      "iso3": "FRO",
+      "capital": "T\u00f3rshavn",
+      "continent": "EU",
+      "native": "F\u00f8royar"
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "phone": "505",
+      "languages": "es",
+      "currency": "NIO",
+      "iso3": "NIC",
+      "capital": "Managua",
+      "continent": "NA",
+      "native": "Nicaragua"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "phone": "31",
+      "languages": "nl",
+      "currency": "EUR",
+      "iso3": "NLD",
+      "capital": "Amsterdam",
+      "continent": "EU",
+      "native": "Nederland"
+    },
+    "NO": {
+      "name": "Norway",
+      "phone": "47",
+      "languages": "no,nb,nn",
+      "currency": "NOK",
+      "iso3": "NOR",
+      "capital": "Oslo",
+      "continent": "EU",
+      "native": "Norge"
+    },
+    "NA": {
+      "name": "Namibia",
+      "phone": "264",
+      "languages": "en,af",
+      "currency": "NAD,ZAR",
+      "iso3": "NAM",
+      "capital": "Windhoek",
+      "continent": "AF",
+      "native": "Namibia"
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "phone": "678",
+      "languages": "bi,en,fr",
+      "currency": "VUV",
+      "iso3": "VUT",
+      "capital": "Port Vila",
+      "continent": "OC",
+      "native": "Vanuatu"
+    },
+    "NC": {
+      "name": "New Caledonia",
+      "phone": "687",
+      "languages": "fr",
+      "currency": "XPF",
+      "iso3": "NCL",
+      "capital": "Noum\u00e9a",
+      "continent": "OC",
+      "native": "Nouvelle-Cal\u00e9donie"
+    },
+    "NE": {
+      "name": "Niger",
+      "phone": "227",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "NER",
+      "capital": "Niamey",
+      "continent": "AF",
+      "native": "Niger"
+    },
+    "NF": {
+      "name": "Norfolk Island",
+      "phone": "672",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "NFK",
+      "capital": "Kingston",
+      "continent": "OC",
+      "native": "Norfolk Island"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "phone": "234",
+      "languages": "en",
+      "currency": "NGN",
+      "iso3": "NGA",
+      "capital": "Abuja",
+      "continent": "AF",
+      "native": "Nigeria"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "phone": "64",
+      "languages": "en,mi",
+      "currency": "NZD",
+      "iso3": "NZL",
+      "capital": "Wellington",
+      "continent": "OC",
+      "native": "New Zealand"
+    },
+    "NP": {
+      "name": "Nepal",
+      "phone": "977",
+      "languages": "ne",
+      "currency": "NPR",
+      "iso3": "NPL",
+      "capital": "Kathmandu",
+      "continent": "AS",
+      "native": "\u0928\u092a\u0932"
+    },
+    "NR": {
+      "name": "Nauru",
+      "phone": "674",
+      "languages": "en,na",
+      "currency": "AUD",
+      "iso3": "NRU",
+      "capital": "Yaren",
+      "continent": "OC",
+      "native": "Nauru"
+    },
+    "NU": {
+      "name": "Niue",
+      "phone": "683",
+      "languages": "en",
+      "currency": "NZD",
+      "iso3": "NIU",
+      "capital": "Alofi",
+      "continent": "OC",
+      "native": "Niu\u0113"
+    },
+    "CK": {
+      "name": "Cook Islands",
+      "phone": "682",
+      "languages": "en",
+      "currency": "NZD",
+      "iso3": "COK",
+      "capital": "Avarua",
+      "continent": "OC",
+      "native": "Cook Islands"
+    },
+    "XK": {
+      "name": "Kosovo",
+      "phone": "377,381,386",
+      "languages": "sq,sr",
+      "currency": "EUR",
+      "iso3": "XKX",
+      "capital": "Pristina",
+      "continent": "EU",
+      "native": "Republika e Kosov\u00ebs"
+    },
+    "CI": {
+      "name": "Ivory Coast",
+      "phone": "225",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "CIV",
+      "capital": "Yamoussoukro",
+      "continent": "AF",
+      "native": "C\u00f4te d'Ivoire"
+    },
+    "CH": {
+      "name": "Switzerland",
+      "phone": "41",
+      "languages": "de,fr,it",
+      "currency": "CHE,CHF,CHW",
+      "iso3": "CHE",
+      "capital": "Bern",
+      "continent": "EU",
+      "native": "Schweiz"
+    },
+    "CO": {
+      "name": "Colombia",
+      "phone": "57",
+      "languages": "es",
+      "currency": "COP",
+      "iso3": "COL",
+      "capital": "Bogot\u00e1",
+      "continent": "SA",
+      "native": "Colombia"
+    },
+    "CN": {
+      "name": "China",
+      "phone": "86",
+      "languages": "zh",
+      "currency": "CNY",
+      "iso3": "CHN",
+      "capital": "Beijing",
+      "continent": "AS",
+      "native": "\u4e2d\u56fd"
+    },
+    "CM": {
+      "name": "Cameroon",
+      "phone": "237",
+      "languages": "en,fr",
+      "currency": "XAF",
+      "iso3": "CMR",
+      "capital": "Yaound\u00e9",
+      "continent": "AF",
+      "native": "Cameroon"
+    },
+    "CL": {
+      "name": "Chile",
+      "phone": "56",
+      "languages": "es",
+      "currency": "CLF,CLP",
+      "iso3": "CHL",
+      "capital": "Santiago",
+      "continent": "SA",
+      "native": "Chile"
+    },
+    "CC": {
+      "name": "Cocos [Keeling] Islands",
+      "phone": "61",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "CCK",
+      "capital": "West Island",
+      "continent": "AS",
+      "native": "Cocos (Keeling) Islands"
+    },
+    "CA": {
+      "name": "Canada",
+      "phone": "1",
+      "languages": "en,fr",
+      "currency": "CAD",
+      "iso3": "CAN",
+      "capital": "Ottawa",
+      "continent": "NA",
+      "native": "Canada"
+    },
+    "CG": {
+      "name": "Republic of the Congo",
+      "phone": "242",
+      "languages": "fr,ln",
+      "currency": "XAF",
+      "iso3": "COG",
+      "capital": "Brazzaville",
+      "continent": "AF",
+      "native": "R\u00e9publique du Congo"
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "phone": "236",
+      "languages": "fr,sg",
+      "currency": "XAF",
+      "iso3": "CAF",
+      "capital": "Bangui",
+      "continent": "AF",
+      "native": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka"
+    },
+    "CD": {
+      "name": "Democratic Republic of the Congo",
+      "phone": "243",
+      "languages": "fr,ln,kg,sw,lu",
+      "currency": "CDF",
+      "iso3": "COD",
+      "capital": "Kinshasa",
+      "continent": "AF",
+      "native": "R\u00e9publique d\u00e9mocratique du Congo"
+    },
+    "CZ": {
+      "name": "Czechia",
+      "phone": "420",
+      "languages": "cs,sk",
+      "currency": "CZK",
+      "iso3": "CZE",
+      "capital": "Prague",
+      "continent": "EU",
+      "native": "\u010cesk\u00e1 republika"
+    },
+    "CY": {
+      "name": "Cyprus",
+      "phone": "357",
+      "languages": "el,tr,hy",
+      "currency": "EUR",
+      "iso3": "CYP",
+      "capital": "Nicosia",
+      "continent": "EU",
+      "native": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+    },
+    "CX": {
+      "name": "Christmas Island",
+      "phone": "61",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "CXR",
+      "capital": "Flying Fish Cove",
+      "continent": "AS",
+      "native": "Christmas Island"
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "phone": "506",
+      "languages": "es",
+      "currency": "CRC",
+      "iso3": "CRI",
+      "capital": "San Jos\u00e9",
+      "continent": "NA",
+      "native": "Costa Rica"
+    },
+    "CW": {
+      "name": "Curacao",
+      "phone": "5999",
+      "languages": "nl,pa,en",
+      "currency": "ANG",
+      "iso3": "CUW",
+      "capital": "Willemstad",
+      "continent": "NA",
+      "native": "Cura\u00e7ao"
+    },
+    "CV": {
+      "name": "Cape Verde",
+      "phone": "238",
+      "languages": "pt",
+      "currency": "CVE",
+      "iso3": "CPV",
+      "capital": "Praia",
+      "continent": "AF",
+      "native": "Cabo Verde"
+    },
+    "CU": {
+      "name": "Cuba",
+      "phone": "53",
+      "languages": "es",
+      "currency": "CUC,CUP",
+      "iso3": "CUB",
+      "capital": "Havana",
+      "continent": "NA",
+      "native": "Cuba"
+    },
+    "SZ": {
+      "name": "Swaziland",
+      "phone": "268",
+      "languages": "en,ss",
+      "currency": "SZL",
+      "iso3": "SWZ",
+      "capital": "Lobamba",
+      "continent": "AF",
+      "native": "Swaziland"
+    },
+    "SY": {
+      "name": "Syria",
+      "phone": "963",
+      "languages": "ar",
+      "currency": "SYP",
+      "iso3": "SYR",
+      "capital": "Damascus",
+      "continent": "AS",
+      "native": "\u0633\u0648\u0631\u064a\u0627"
+    },
+    "SX": {
+      "name": "Sint Maarten",
+      "phone": "1721",
+      "languages": "nl,en",
+      "currency": "ANG",
+      "iso3": "SXM",
+      "capital": "Philipsburg",
+      "continent": "NA",
+      "native": "Sint Maarten"
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "phone": "996",
+      "languages": "ky,ru",
+      "currency": "KGS",
+      "iso3": "KGZ",
+      "capital": "Bishkek",
+      "continent": "AS",
+      "native": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    },
+    "KE": {
+      "name": "Kenya",
+      "phone": "254",
+      "languages": "en,sw",
+      "currency": "KES",
+      "iso3": "KEN",
+      "capital": "Nairobi",
+      "continent": "AF",
+      "native": "Kenya"
+    },
+    "SS": {
+      "name": "South Sudan",
+      "phone": "211",
+      "languages": "en",
+      "currency": "SSP",
+      "iso3": "SSD",
+      "capital": "Juba",
+      "continent": "AF",
+      "native": "South Sudan"
+    },
+    "SR": {
+      "name": "Suriname",
+      "phone": "597",
+      "languages": "nl",
+      "currency": "SRD",
+      "iso3": "SUR",
+      "capital": "Paramaribo",
+      "continent": "SA",
+      "native": "Suriname"
+    },
+    "KI": {
+      "name": "Kiribati",
+      "phone": "686",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "KIR",
+      "capital": "South Tarawa",
+      "continent": "OC",
+      "native": "Kiribati"
+    },
+    "KH": {
+      "name": "Cambodia",
+      "phone": "855",
+      "languages": "km",
+      "currency": "KHR",
+      "iso3": "KHM",
+      "capital": "Phnom Penh",
+      "continent": "AS",
+      "native": "K\u00e2mp\u016dch\u00e9a"
+    },
+    "KN": {
+      "name": "Saint Kitts and Nevis",
+      "phone": "1869",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "KNA",
+      "capital": "Basseterre",
+      "continent": "NA",
+      "native": "Saint Kitts and Nevis"
+    },
+    "KM": {
+      "name": "Comoros",
+      "phone": "269",
+      "languages": "ar,fr",
+      "currency": "KMF",
+      "iso3": "COM",
+      "capital": "Moroni",
+      "continent": "AF",
+      "native": "Komori"
+    },
+    "ST": {
+      "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "phone": "239",
+      "languages": "pt",
+      "currency": "STD",
+      "iso3": "STP",
+      "capital": "S\u00e3o Tom\u00e9",
+      "continent": "AF",
+      "native": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+    },
+    "SK": {
+      "name": "Slovakia",
+      "phone": "421",
+      "languages": "sk",
+      "currency": "EUR",
+      "iso3": "SVK",
+      "capital": "Bratislava",
+      "continent": "EU",
+      "native": "Slovensko"
+    },
+    "KR": {
+      "name": "South Korea",
+      "phone": "82",
+      "languages": "ko",
+      "currency": "KRW",
+      "iso3": "KOR",
+      "capital": "Seoul",
+      "continent": "AS",
+      "native": "\ub300\ud55c\ubbfc\uad6d"
+    },
+    "SI": {
+      "name": "Slovenia",
+      "phone": "386",
+      "languages": "sl",
+      "currency": "EUR",
+      "iso3": "SVN",
+      "capital": "Ljubljana",
+      "continent": "EU",
+      "native": "Slovenija"
+    },
+    "KP": {
+      "name": "North Korea",
+      "phone": "850",
+      "languages": "ko",
+      "currency": "KPW",
+      "iso3": "PRK",
+      "capital": "Pyongyang",
+      "continent": "AS",
+      "native": "\ubd81\ud55c"
+    },
+    "KW": {
+      "name": "Kuwait",
+      "phone": "965",
+      "languages": "ar",
+      "currency": "KWD",
+      "iso3": "KWT",
+      "capital": "Kuwait City",
+      "continent": "AS",
+      "native": "\u0627\u0644\u0643\u0648\u064a\u062a"
+    },
+    "SN": {
+      "name": "Senegal",
+      "phone": "221",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "SEN",
+      "capital": "Dakar",
+      "continent": "AF",
+      "native": "S\u00e9n\u00e9gal"
+    },
+    "SM": {
+      "name": "San Marino",
+      "phone": "378",
+      "languages": "it",
+      "currency": "EUR",
+      "iso3": "SMR",
+      "capital": "City of San Marino",
+      "continent": "EU",
+      "native": "San Marino"
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "phone": "232",
+      "languages": "en",
+      "currency": "SLL",
+      "iso3": "SLE",
+      "capital": "Freetown",
+      "continent": "AF",
+      "native": "Sierra Leone"
+    },
+    "SC": {
+      "name": "Seychelles",
+      "phone": "248",
+      "languages": "fr,en",
+      "currency": "SCR",
+      "iso3": "SYC",
+      "capital": "Victoria",
+      "continent": "AF",
+      "native": "Seychelles"
+    },
+    "KZ": {
+      "name": "Kazakhstan",
+      "phone": "76,77",
+      "languages": "kk,ru",
+      "currency": "KZT",
+      "iso3": "KAZ",
+      "capital": "Astana",
+      "continent": "AS",
+      "native": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+    },
+    "KY": {
+      "name": "Cayman Islands",
+      "phone": "1345",
+      "languages": "en",
+      "currency": "KYD",
+      "iso3": "CYM",
+      "capital": "George Town",
+      "continent": "NA",
+      "native": "Cayman Islands"
+    },
+    "SG": {
+      "name": "Singapore",
+      "phone": "65",
+      "languages": "en,ms,ta,zh",
+      "currency": "SGD",
+      "iso3": "SGP",
+      "capital": "Singapore",
+      "continent": "AS",
+      "native": "Singapore"
+    },
+    "SE": {
+      "name": "Sweden",
+      "phone": "46",
+      "languages": "sv",
+      "currency": "SEK",
+      "iso3": "SWE",
+      "capital": "Stockholm",
+      "continent": "EU",
+      "native": "Sverige"
+    },
+    "SD": {
+      "name": "Sudan",
+      "phone": "249",
+      "languages": "ar,en",
+      "currency": "SDG",
+      "iso3": "SDN",
+      "capital": "Khartoum",
+      "continent": "AF",
+      "native": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+    },
+    "DO": {
+      "name": "Dominican Republic",
+      "phone": "1809,1829,1849",
+      "languages": "es",
+      "currency": "DOP",
+      "iso3": "DOM",
+      "capital": "Santo Domingo",
+      "continent": "NA",
+      "native": "Rep\u00fablica Dominicana"
+    },
+    "DM": {
+      "name": "Dominica",
+      "phone": "1767",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "DMA",
+      "capital": "Roseau",
+      "continent": "NA",
+      "native": "Dominica"
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "phone": "253",
+      "languages": "fr,ar",
+      "currency": "DJF",
+      "iso3": "DJI",
+      "capital": "Djibouti",
+      "continent": "AF",
+      "native": "Djibouti"
+    },
+    "DK": {
+      "name": "Denmark",
+      "phone": "45",
+      "languages": "da",
+      "currency": "DKK",
+      "iso3": "DNK",
+      "capital": "Copenhagen",
+      "continent": "EU",
+      "native": "Danmark"
+    },
+    "VG": {
+      "name": "British Virgin Islands",
+      "phone": "1284",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "VGB",
+      "capital": "Road Town",
+      "continent": "NA",
+      "native": "British Virgin Islands"
+    },
+    "DE": {
+      "name": "Germany",
+      "phone": "49",
+      "languages": "de",
+      "currency": "EUR",
+      "iso3": "DEU",
+      "capital": "Berlin",
+      "continent": "EU",
+      "native": "Deutschland"
+    },
+    "YE": {
+      "name": "Yemen",
+      "phone": "967",
+      "languages": "ar",
+      "currency": "YER",
+      "iso3": "YEM",
+      "capital": "Sana'a",
+      "continent": "AS",
+      "native": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646"
+    },
+    "DZ": {
+      "name": "Algeria",
+      "phone": "213",
+      "languages": "ar",
+      "currency": "DZD",
+      "iso3": "DZA",
+      "capital": "Algiers",
+      "continent": "AF",
+      "native": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    },
+    "US": {
+      "name": "United States",
+      "phone": "1",
+      "languages": "en",
+      "currency": "USD,USN,USS",
+      "iso3": "USA",
+      "capital": "Washington D.C.",
+      "continent": "NA",
+      "native": "United States"
+    },
+    "UY": {
+      "name": "Uruguay",
+      "phone": "598",
+      "languages": "es",
+      "currency": "UYI,UYU",
+      "iso3": "URY",
+      "capital": "Montevideo",
+      "continent": "SA",
+      "native": "Uruguay"
+    },
+    "YT": {
+      "name": "Mayotte",
+      "phone": "262",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "MYT",
+      "capital": "Mamoudzou",
+      "continent": "AF",
+      "native": "Mayotte"
+    },
+    "UM": {
+      "name": "U.S. Minor Outlying Islands",
+      "phone": "",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "UMI",
+      "capital": "",
+      "continent": "OC",
+      "native": "United States Minor Outlying Islands"
+    },
+    "LB": {
+      "name": "Lebanon",
+      "phone": "961",
+      "languages": "ar,fr",
+      "currency": "LBP",
+      "iso3": "LBN",
+      "capital": "Beirut",
+      "continent": "AS",
+      "native": "\u0644\u0628\u0646\u0627\u0646"
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "phone": "1758",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "LCA",
+      "capital": "Castries",
+      "continent": "NA",
+      "native": "Saint Lucia"
+    },
+    "LA": {
+      "name": "Laos",
+      "phone": "856",
+      "languages": "lo",
+      "currency": "LAK",
+      "iso3": "LAO",
+      "capital": "Vientiane",
+      "continent": "AS",
+      "native": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7"
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "phone": "688",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "TUV",
+      "capital": "Funafuti",
+      "continent": "OC",
+      "native": "Tuvalu"
+    },
+    "TW": {
+      "name": "Taiwan",
+      "phone": "886",
+      "languages": "zh",
+      "currency": "TWD",
+      "iso3": "TWN",
+      "capital": "Taipei",
+      "continent": "AS",
+      "native": "\u81fa\u7063"
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "phone": "1868",
+      "languages": "en",
+      "currency": "TTD",
+      "iso3": "TTO",
+      "capital": "Port of Spain",
+      "continent": "NA",
+      "native": "Trinidad and Tobago"
+    },
+    "TR": {
+      "name": "Turkey",
+      "phone": "90",
+      "languages": "tr",
+      "currency": "TRY",
+      "iso3": "TUR",
+      "capital": "Ankara",
+      "continent": "AS",
+      "native": "T\u00fcrkiye"
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "phone": "94",
+      "languages": "si,ta",
+      "currency": "LKR",
+      "iso3": "LKA",
+      "capital": "Colombo",
+      "continent": "AS",
+      "native": "\u015br\u012b la\u1e43k\u0101va"
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "phone": "423",
+      "languages": "de",
+      "currency": "CHF",
+      "iso3": "LIE",
+      "capital": "Vaduz",
+      "continent": "EU",
+      "native": "Liechtenstein"
+    },
+    "LV": {
+      "name": "Latvia",
+      "phone": "371",
+      "languages": "lv",
+      "currency": "EUR",
+      "iso3": "LVA",
+      "capital": "Riga",
+      "continent": "EU",
+      "native": "Latvija"
+    },
+    "TO": {
+      "name": "Tonga",
+      "phone": "676",
+      "languages": "en,to",
+      "currency": "TOP",
+      "iso3": "TON",
+      "capital": "Nuku'alofa",
+      "continent": "OC",
+      "native": "Tonga"
+    },
+    "LT": {
+      "name": "Lithuania",
+      "phone": "370",
+      "languages": "lt",
+      "currency": "LTL",
+      "iso3": "LTU",
+      "capital": "Vilnius",
+      "continent": "EU",
+      "native": "Lietuva"
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "phone": "352",
+      "languages": "fr,de,lb",
+      "currency": "EUR",
+      "iso3": "LUX",
+      "capital": "Luxembourg",
+      "continent": "EU",
+      "native": "Luxembourg"
+    },
+    "LR": {
+      "name": "Liberia",
+      "phone": "231",
+      "languages": "en",
+      "currency": "LRD",
+      "iso3": "LBR",
+      "capital": "Monrovia",
+      "continent": "AF",
+      "native": "Liberia"
+    },
+    "LS": {
+      "name": "Lesotho",
+      "phone": "266",
+      "languages": "en,st",
+      "currency": "LSL,ZAR",
+      "iso3": "LSO",
+      "capital": "Maseru",
+      "continent": "AF",
+      "native": "Lesotho"
+    },
+    "TH": {
+      "name": "Thailand",
+      "phone": "66",
+      "languages": "th",
+      "currency": "THB",
+      "iso3": "THA",
+      "capital": "Bangkok",
+      "continent": "AS",
+      "native": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+    },
+    "TF": {
+      "name": "French Southern Territories",
+      "phone": "",
+      "languages": "fr",
+      "currency": "EUR",
+      "iso3": "ATF",
+      "capital": "Port-aux-Fran\u00e7ais",
+      "continent": "AN",
+      "native": "Territoire des Terres australes et antarctiques fr"
+    },
+    "TG": {
+      "name": "Togo",
+      "phone": "228",
+      "languages": "fr",
+      "currency": "XOF",
+      "iso3": "TGO",
+      "capital": "Lom\u00e9",
+      "continent": "AF",
+      "native": "Togo"
+    },
+    "TD": {
+      "name": "Chad",
+      "phone": "235",
+      "languages": "fr,ar",
+      "currency": "XAF",
+      "iso3": "TCD",
+      "capital": "N'Djamena",
+      "continent": "AF",
+      "native": "Tchad"
+    },
+    "TC": {
+      "name": "Turks and Caicos Islands",
+      "phone": "1649",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "TCA",
+      "capital": "Cockburn Town",
+      "continent": "NA",
+      "native": "Turks and Caicos Islands"
+    },
+    "LY": {
+      "name": "Libya",
+      "phone": "218",
+      "languages": "ar",
+      "currency": "LYD",
+      "iso3": "LBY",
+      "capital": "Tripoli",
+      "continent": "AF",
+      "native": "\u200f\u0644\u064a\u0628\u064a\u0627"
+    },
+    "VA": {
+      "name": "Vatican City",
+      "phone": "39066,379",
+      "languages": "it,la",
+      "currency": "EUR",
+      "iso3": "VAT",
+      "capital": "Vatican City",
+      "continent": "EU",
+      "native": "Vaticano"
+    },
+    "VC": {
+      "name": "Saint Vincent and the Grenadines",
+      "phone": "1784",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "VCT",
+      "capital": "Kingstown",
+      "continent": "NA",
+      "native": "Saint Vincent and the Grenadines"
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "phone": "971",
+      "languages": "ar",
+      "currency": "AED",
+      "iso3": "ARE",
+      "capital": "Abu Dhabi",
+      "continent": "AS",
+      "native": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+    },
+    "AD": {
+      "name": "Andorra",
+      "phone": "376",
+      "languages": "ca",
+      "currency": "EUR",
+      "iso3": "AND",
+      "capital": "Andorra la Vella",
+      "continent": "EU",
+      "native": "Andorra"
+    },
+    "AG": {
+      "name": "Antigua and Barbuda",
+      "phone": "1268",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "ATG",
+      "capital": "Saint John's",
+      "continent": "NA",
+      "native": "Antigua and Barbuda"
+    },
+    "AF": {
+      "name": "Afghanistan",
+      "phone": "93",
+      "languages": "ps,uz,tk",
+      "currency": "AFN",
+      "iso3": "AFG",
+      "capital": "Kabul",
+      "continent": "AS",
+      "native": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    },
+    "AI": {
+      "name": "Anguilla",
+      "phone": "1264",
+      "languages": "en",
+      "currency": "XCD",
+      "iso3": "AIA",
+      "capital": "The Valley",
+      "continent": "NA",
+      "native": "Anguilla"
+    },
+    "VI": {
+      "name": "U.S. Virgin Islands",
+      "phone": "1340",
+      "languages": "en",
+      "currency": "USD",
+      "iso3": "VIR",
+      "capital": "Charlotte Amalie",
+      "continent": "NA",
+      "native": "United States Virgin Islands"
+    },
+    "IS": {
+      "name": "Iceland",
+      "phone": "354",
+      "languages": "is",
+      "currency": "ISK",
+      "iso3": "ISL",
+      "capital": "Reykjavik",
+      "continent": "EU",
+      "native": "\u00cdsland"
+    },
+    "IR": {
+      "name": "Iran",
+      "phone": "98",
+      "languages": "fa",
+      "currency": "IRR",
+      "iso3": "IRN",
+      "capital": "Tehran",
+      "continent": "AS",
+      "native": "Ir\u0101n"
+    },
+    "AM": {
+      "name": "Armenia",
+      "phone": "374",
+      "languages": "hy,ru",
+      "currency": "AMD",
+      "iso3": "ARM",
+      "capital": "Yerevan",
+      "continent": "AS",
+      "native": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+    },
+    "AL": {
+      "name": "Albania",
+      "phone": "355",
+      "languages": "sq",
+      "currency": "ALL",
+      "iso3": "ALB",
+      "capital": "Tirana",
+      "continent": "EU",
+      "native": "Shqip\u00ebria"
+    },
+    "AO": {
+      "name": "Angola",
+      "phone": "244",
+      "languages": "pt",
+      "currency": "AOA",
+      "iso3": "AGO",
+      "capital": "Luanda",
+      "continent": "AF",
+      "native": "Angola"
+    },
+    "AQ": {
+      "name": "Antarctica",
+      "phone": "",
+      "languages": "",
+      "currency": "",
+      "iso3": "ATA",
+      "capital": "",
+      "continent": "AN",
+      "native": ""
+    },
+    "AS": {
+      "name": "American Samoa",
+      "phone": "1684",
+      "languages": "en,sm",
+      "currency": "USD",
+      "iso3": "ASM",
+      "capital": "Pago Pago",
+      "continent": "OC",
+      "native": "American Samoa"
+    },
+    "AR": {
+      "name": "Argentina",
+      "phone": "54",
+      "languages": "es,gn",
+      "currency": "ARS",
+      "iso3": "ARG",
+      "capital": "Buenos Aires",
+      "continent": "SA",
+      "native": "Argentina"
+    },
+    "AU": {
+      "name": "Australia",
+      "phone": "61",
+      "languages": "en",
+      "currency": "AUD",
+      "iso3": "AUS",
+      "capital": "Canberra",
+      "continent": "OC",
+      "native": "Australia"
+    },
+    "AT": {
+      "name": "Austria",
+      "phone": "43",
+      "languages": "de",
+      "currency": "EUR",
+      "iso3": "AUT",
+      "capital": "Vienna",
+      "continent": "EU",
+      "native": "\u00d6sterreich"
+    },
+    "AW": {
+      "name": "Aruba",
+      "phone": "297",
+      "languages": "nl,pa",
+      "currency": "AWG",
+      "iso3": "ABW",
+      "capital": "Oranjestad",
+      "continent": "NA",
+      "native": "Aruba"
+    },
+    "IN": {
+      "name": "India",
+      "phone": "91",
+      "languages": "hi,en",
+      "currency": "INR",
+      "iso3": "IND",
+      "capital": "New Delhi",
+      "continent": "AS",
+      "native": "\u092d\u093e\u0930\u0924"
+    },
+    "AX": {
+      "name": "\u00c5land",
+      "phone": "358",
+      "languages": "sv",
+      "currency": "EUR",
+      "iso3": "ALA",
+      "capital": "Mariehamn",
+      "continent": "EU",
+      "native": "\u00c5land"
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "phone": "994",
+      "languages": "az,hy",
+      "currency": "AZN",
+      "iso3": "AZE",
+      "capital": "Baku",
+      "continent": "AS",
+      "native": "Az\u0259rbaycan"
+    },
+    "IE": {
+      "name": "Ireland",
+      "phone": "353",
+      "languages": "ga,en",
+      "currency": "EUR",
+      "iso3": "IRL",
+      "capital": "Dublin",
+      "continent": "EU",
+      "native": "\u00c9ire"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "phone": "62",
+      "languages": "id",
+      "currency": "IDR",
+      "iso3": "IDN",
+      "capital": "Jakarta",
+      "continent": "AS",
+      "native": "Indonesia"
+    },
+    "UA": {
+      "name": "Ukraine",
+      "phone": "380",
+      "languages": "uk",
+      "currency": "UAH",
+      "iso3": "UKR",
+      "capital": "Kiev",
+      "continent": "EU",
+      "native": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+    },
+    "QA": {
+      "name": "Qatar",
+      "phone": "974",
+      "languages": "ar",
+      "currency": "QAR",
+      "iso3": "QAT",
+      "capital": "Doha",
+      "continent": "AS",
+      "native": "\u0642\u0637\u0631"
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "phone": "258",
+      "languages": "pt",
+      "currency": "MZN",
+      "iso3": "MOZ",
+      "capital": "Maputo",
+      "continent": "AF",
+      "native": "Mo\u00e7ambique"
+    }
+  }
+}
